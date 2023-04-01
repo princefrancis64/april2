@@ -1,0 +1,28 @@
+INFO root 2023-03-19 04:01:03,174
+INFO root 2023-03-19 04:02:15,833
+INFO root 2023-03-19 04:04:04,203 the number entered by the user is 4 and 2
+INFO root 2023-03-19 04:13:23,815 the number entered by the user is 4 and 2
+INFO root 2023-03-19 04:13:23,817 we are int a function
+INFO root 2023-03-19 04:13:23,817 we have completed a division operation
+INFO root 2023-03-19 04:15:32,263 the number entered by the user is 4 and 0
+INFO root 2023-03-19 04:15:32,263 we are into a function
+ERROR root 2023-03-19 04:15:32,264 division by zero
+Traceback (most recent call last):
+  File "C:\Users\ais\PycharmProjects\test3\test3.py", line 10, in divide
+    div=a/b
+ZeroDivisionError: division by zero
+INFO root 2023-03-19 04:20:48,442 the number entered by the user is 4 and 1
+INFO root 2023-03-19 04:20:48,443 we are into a function
+INFO root 2023-03-19 04:20:48,443 we have completed a division operation
+INFO root 2023-03-19 04:20:48,443 the result of code is 4.0
+INFO root 2023-03-20 00:17:51,562 the number entered by the user is 4 and 1
+INFO root 2023-03-20 00:17:51,563 we are into a function
+INFO root 2023-03-20 00:17:51,564 we have completed a division operation
+INFO root 2023-03-20 00:17:51,564 the result of code is 4.0
+INFO root 2023-03-20 00:18:31,412 the number entered by the user is 4 and 0
+INFO root 2023-03-20 00:18:31,414 we are into a function
+ERROR root 2023-03-20 00:18:31,415 division by zero
+Traceback (most recent call last):
+  File "C:\Users\ais\PycharmProjects\test3\test3.py", line 10, in divide
+    div=a/b
+ZeroDivisionError: division by zero
